@@ -1,0 +1,1326 @@
+{
+  "name": "P100_M7_F3_seed20261187_min",
+  "configuration": "P100_M7_F3",
+  "units": {
+    "length": "mm",
+    "volume": "mm^3",
+    "time": "min"
+  },
+  "numeric_time_factor_from_original_hour_data": 3.5,
+  "seed": 20261187,
+  "replication_index": 2,
+  "rng_key": "20261187:100:7:3:2",
+  "parts": [
+    {
+      "id": 1,
+      "material": "F3",
+      "length": 26,
+      "width": 59,
+      "height": 147,
+      "volume": 133955.79009410052,
+      "size_category": "small",
+      "volume_ratio": 0.5940442491467797
+    },
+    {
+      "id": 2,
+      "material": "F2",
+      "length": 89,
+      "width": 92,
+      "height": 47,
+      "volume": 162622.20521522872,
+      "size_category": "medium",
+      "volume_ratio": 0.4225753443420801
+    },
+    {
+      "id": 3,
+      "material": "F1",
+      "length": 78,
+      "width": 98,
+      "height": 16,
+      "volume": 27598.15068481332,
+      "size_category": "medium",
+      "volume_ratio": 0.22565206930937112
+    },
+    {
+      "id": 4,
+      "material": "F3",
+      "length": 62,
+      "width": 32,
+      "height": 142,
+      "volume": 32282.809679933798,
+      "size_category": "small",
+      "volume_ratio": 0.11458857365946515
+    },
+    {
+      "id": 5,
+      "material": "F3",
+      "length": 176,
+      "width": 138,
+      "height": 20,
+      "volume": 241914.95202162667,
+      "size_category": "large",
+      "volume_ratio": 0.4980133234964317
+    },
+    {
+      "id": 6,
+      "material": "F3",
+      "length": 155,
+      "width": 137,
+      "height": 132,
+      "volume": 552302.4355114175,
+      "size_category": "large",
+      "volume_ratio": 0.19703834989098093
+    },
+    {
+      "id": 7,
+      "material": "F3",
+      "length": 22,
+      "width": 59,
+      "height": 30,
+      "volume": 12634.115081487633,
+      "size_category": "small",
+      "volume_ratio": 0.3244508238697389
+    },
+    {
+      "id": 8,
+      "material": "F2",
+      "length": 144,
+      "width": 166,
+      "height": 94,
+      "volume": 330039.0406899199,
+      "size_category": "large",
+      "volume_ratio": 0.1468814267219231
+    },
+    {
+      "id": 9,
+      "material": "F1",
+      "length": 163,
+      "width": 123,
+      "height": 125,
+      "volume": 1397907.4213134267,
+      "size_category": "large",
+      "volume_ratio": 0.557796367425179
+    },
+    {
+      "id": 10,
+      "material": "F3",
+      "length": 111,
+      "width": 116,
+      "height": 149,
+      "volume": 683782.2900160523,
+      "size_category": "medium",
+      "volume_ratio": 0.3564106000321353
+    },
+    {
+      "id": 11,
+      "material": "F3",
+      "length": 111,
+      "width": 107,
+      "height": 26,
+      "volume": 143233.4454391006,
+      "size_category": "medium",
+      "volume_ratio": 0.4638358735989423
+    },
+    {
+      "id": 12,
+      "material": "F3",
+      "length": 160,
+      "width": 160,
+      "height": 26,
+      "volume": 180709.88369419496,
+      "size_category": "large",
+      "volume_ratio": 0.2714992243001727
+    },
+    {
+      "id": 13,
+      "material": "F1",
+      "length": 147,
+      "width": 124,
+      "height": 63,
+      "volume": 478811.8785676603,
+      "size_category": "large",
+      "volume_ratio": 0.41695131384096007
+    },
+    {
+      "id": 14,
+      "material": "F2",
+      "length": 65,
+      "width": 20,
+      "height": 17,
+      "volume": 9719.211049257654,
+      "size_category": "small",
+      "volume_ratio": 0.43978330539627397
+    },
+    {
+      "id": 15,
+      "material": "F3",
+      "length": 22,
+      "width": 56,
+      "height": 137,
+      "volume": 54628.42924191725,
+      "size_category": "small",
+      "volume_ratio": 0.3236588138799723
+    },
+    {
+      "id": 16,
+      "material": "F3",
+      "length": 70,
+      "width": 105,
+      "height": 88,
+      "volume": 296362.97499643994,
+      "size_category": "medium",
+      "volume_ratio": 0.4581987863272108
+    },
+    {
+      "id": 17,
+      "material": "F3",
+      "length": 172,
+      "width": 163,
+      "height": 106,
+      "volume": 807421.2895863026,
+      "size_category": "large",
+      "volume_ratio": 0.27169289403728314
+    },
+    {
+      "id": 18,
+      "material": "F2",
+      "length": 23,
+      "width": 53,
+      "height": 66,
+      "volume": 11552.95689405577,
+      "size_category": "small",
+      "volume_ratio": 0.14359704792870173
+    },
+    {
+      "id": 19,
+      "material": "F2",
+      "length": 155,
+      "width": 151,
+      "height": 84,
+      "volume": 1171748.0354320763,
+      "size_category": "large",
+      "volume_ratio": 0.5960000587135819
+    },
+    {
+      "id": 20,
+      "material": "F3",
+      "length": 57,
+      "width": 21,
+      "height": 98,
+      "volume": 40038.20126209217,
+      "size_category": "small",
+      "volume_ratio": 0.34131418053716067
+    },
+    {
+      "id": 21,
+      "material": "F3",
+      "length": 146,
+      "width": 150,
+      "height": 57,
+      "volume": 249084.43519136877,
+      "size_category": "large",
+      "volume_ratio": 0.19953892108577168
+    },
+    {
+      "id": 22,
+      "material": "F2",
+      "length": 111,
+      "width": 100,
+      "height": 110,
+      "volume": 440736.5988709716,
+      "size_category": "medium",
+      "volume_ratio": 0.36096363543896115
+    },
+    {
+      "id": 23,
+      "material": "F1",
+      "length": 83,
+      "width": 77,
+      "height": 145,
+      "volume": 327760.441869103,
+      "size_category": "medium",
+      "volume_ratio": 0.3536875043774953
+    },
+    {
+      "id": 24,
+      "material": "F2",
+      "length": 31,
+      "width": 28,
+      "height": 11,
+      "volume": 2878.515543067766,
+      "size_category": "small",
+      "volume_ratio": 0.30147837694467594
+    },
+    {
+      "id": 25,
+      "material": "F1",
+      "length": 49,
+      "width": 37,
+      "height": 128,
+      "volume": 117975.47254405156,
+      "size_category": "small",
+      "volume_ratio": 0.5083747265584131
+    },
+    {
+      "id": 26,
+      "material": "F1",
+      "length": 73,
+      "width": 97,
+      "height": 12,
+      "volume": 43780.31181599281,
+      "size_category": "medium",
+      "volume_ratio": 0.5152322155061998
+    },
+    {
+      "id": 27,
+      "material": "F3",
+      "length": 57,
+      "width": 25,
+      "height": 74,
+      "volume": 28070.208988545655,
+      "size_category": "small",
+      "volume_ratio": 0.26619449017112995
+    },
+    {
+      "id": 28,
+      "material": "F1",
+      "length": 54,
+      "width": 65,
+      "height": 86,
+      "volume": 30718.719312951926,
+      "size_category": "small",
+      "volume_ratio": 0.10176478934920799
+    },
+    {
+      "id": 29,
+      "material": "F3",
+      "length": 66,
+      "width": 57,
+      "height": 142,
+      "volume": 224926.7446393105,
+      "size_category": "small",
+      "volume_ratio": 0.4210502816139724
+    },
+    {
+      "id": 30,
+      "material": "F1",
+      "length": 169,
+      "width": 123,
+      "height": 122,
+      "volume": 827553.6836964847,
+      "size_category": "large",
+      "volume_ratio": 0.3263206290251097
+    },
+    {
+      "id": 31,
+      "material": "F1",
+      "length": 86,
+      "width": 106,
+      "height": 28,
+      "volume": 73676.8878477392,
+      "size_category": "medium",
+      "volume_ratio": 0.28864824738191563
+    },
+    {
+      "id": 32,
+      "material": "F2",
+      "length": 94,
+      "width": 120,
+      "height": 114,
+      "volume": 451101.073674982,
+      "size_category": "medium",
+      "volume_ratio": 0.35080026259408204
+    },
+    {
+      "id": 33,
+      "material": "F3",
+      "length": 174,
+      "width": 143,
+      "height": 47,
+      "volume": 449251.902793272,
+      "size_category": "large",
+      "volume_ratio": 0.3841552577470101
+    },
+    {
+      "id": 34,
+      "material": "F2",
+      "length": 95,
+      "width": 99,
+      "height": 16,
+      "volume": 83730.88284044155,
+      "size_category": "medium",
+      "volume_ratio": 0.5564253245643378
+    },
+    {
+      "id": 35,
+      "material": "F1",
+      "length": 64,
+      "width": 40,
+      "height": 150,
+      "volume": 131818.28893254235,
+      "size_category": "small",
+      "volume_ratio": 0.3432767940951623
+    },
+    {
+      "id": 36,
+      "material": "F1",
+      "length": 28,
+      "width": 33,
+      "height": 120,
+      "volume": 12839.536098838384,
+      "size_category": "small",
+      "volume_ratio": 0.11579668198808066
+    },
+    {
+      "id": 37,
+      "material": "F3",
+      "length": 87,
+      "width": 115,
+      "height": 69,
+      "volume": 366964.66703783075,
+      "size_category": "medium",
+      "volume_ratio": 0.5315670672458419
+    },
+    {
+      "id": 38,
+      "material": "F3",
+      "length": 147,
+      "width": 172,
+      "height": 76,
+      "volume": 717699.7827334686,
+      "size_category": "large",
+      "volume_ratio": 0.37349383775753164
+    },
+    {
+      "id": 39,
+      "material": "F2",
+      "length": 132,
+      "width": 152,
+      "height": 25,
+      "volume": 123167.17577243451,
+      "size_category": "large",
+      "volume_ratio": 0.2455485960375489
+    },
+    {
+      "id": 40,
+      "material": "F3",
+      "length": 161,
+      "width": 177,
+      "height": 109,
+      "volume": 1552582.311833913,
+      "size_category": "large",
+      "volume_ratio": 0.4998376818786052
+    },
+    {
+      "id": 41,
+      "material": "F2",
+      "length": 98,
+      "width": 89,
+      "height": 122,
+      "volume": 339423.9859369665,
+      "size_category": "medium",
+      "volume_ratio": 0.31898232276490057
+    },
+    {
+      "id": 42,
+      "material": "F2",
+      "length": 71,
+      "width": 118,
+      "height": 21,
+      "volume": 27630.7529805369,
+      "size_category": "medium",
+      "volume_ratio": 0.1570482384734219
+    },
+    {
+      "id": 43,
+      "material": "F3",
+      "length": 144,
+      "width": 157,
+      "height": 71,
+      "volume": 328479.04672944447,
+      "size_category": "large",
+      "volume_ratio": 0.20463842210251168
+    },
+    {
+      "id": 44,
+      "material": "F1",
+      "length": 142,
+      "width": 154,
+      "height": 122,
+      "volume": 1328360.3423318414,
+      "size_category": "large",
+      "volume_ratio": 0.4979055938956546
+    },
+    {
+      "id": 45,
+      "material": "F3",
+      "length": 141,
+      "width": 131,
+      "height": 87,
+      "volume": 954746.9276519166,
+      "size_category": "large",
+      "volume_ratio": 0.5941260687937143
+    },
+    {
+      "id": 46,
+      "material": "F3",
+      "length": 52,
+      "width": 61,
+      "height": 141,
+      "volume": 174791.60301564954,
+      "size_category": "small",
+      "volume_ratio": 0.3908123452005794
+    },
+    {
+      "id": 47,
+      "material": "F1",
+      "length": 116,
+      "width": 120,
+      "height": 141,
+      "volume": 722031.5843936679,
+      "size_category": "medium",
+      "volume_ratio": 0.36787294387058156
+    },
+    {
+      "id": 48,
+      "material": "F2",
+      "length": 176,
+      "width": 153,
+      "height": 128,
+      "volume": 1435129.4126469656,
+      "size_category": "large",
+      "volume_ratio": 0.4163676669750601
+    },
+    {
+      "id": 49,
+      "material": "F1",
+      "length": 71,
+      "width": 93,
+      "height": 82,
+      "volume": 218892.1578161551,
+      "size_category": "medium",
+      "volume_ratio": 0.40427329376550036
+    },
+    {
+      "id": 50,
+      "material": "F3",
+      "length": 35,
+      "width": 30,
+      "height": 82,
+      "volume": 48196.275867676064,
+      "size_category": "small",
+      "volume_ratio": 0.5597709160008835
+    },
+    {
+      "id": 51,
+      "material": "F3",
+      "length": 99,
+      "width": 95,
+      "height": 15,
+      "volume": 79062.87258846212,
+      "size_category": "medium",
+      "volume_ratio": 0.5604314909690741
+    },
+    {
+      "id": 52,
+      "material": "F1",
+      "length": 24,
+      "width": 58,
+      "height": 30,
+      "volume": 9363.255979822989,
+      "size_category": "small",
+      "volume_ratio": 0.22421589989997578
+    },
+    {
+      "id": 53,
+      "material": "F1",
+      "length": 65,
+      "width": 41,
+      "height": 127,
+      "volume": 53376.51896350666,
+      "size_category": "small",
+      "volume_ratio": 0.15770639808395995
+    },
+    {
+      "id": 54,
+      "material": "F1",
+      "length": 80,
+      "width": 87,
+      "height": 96,
+      "volume": 201940.9126160132,
+      "size_category": "medium",
+      "volume_ratio": 0.30223436394877456
+    },
+    {
+      "id": 55,
+      "material": "F2",
+      "length": 71,
+      "width": 93,
+      "height": 82,
+      "volume": 147692.58846937586,
+      "size_category": "medium",
+      "volume_ratio": 0.27277436433065505
+    },
+    {
+      "id": 56,
+      "material": "F3",
+      "length": 32,
+      "width": 54,
+      "height": 120,
+      "volume": 28101.148223763797,
+      "size_category": "small",
+      "volume_ratio": 0.13551865462849053
+    },
+    {
+      "id": 57,
+      "material": "F2",
+      "length": 80,
+      "width": 103,
+      "height": 122,
+      "volume": 260324.53911614683,
+      "size_category": "medium",
+      "volume_ratio": 0.25895724486326877
+    },
+    {
+      "id": 58,
+      "material": "F3",
+      "length": 140,
+      "width": 122,
+      "height": 46,
+      "volume": 253761.29908175036,
+      "size_category": "large",
+      "volume_ratio": 0.32298301990855105
+    },
+    {
+      "id": 59,
+      "material": "F2",
+      "length": 127,
+      "width": 140,
+      "height": 94,
+      "volume": 803995.4399830315,
+      "size_category": "large",
+      "volume_ratio": 0.48105416077294083
+    },
+    {
+      "id": 60,
+      "material": "F2",
+      "length": 179,
+      "width": 155,
+      "height": 144,
+      "volume": 1755722.8017450694,
+      "size_category": "large",
+      "volume_ratio": 0.43944925055191864
+    },
+    {
+      "id": 61,
+      "material": "F3",
+      "length": 138,
+      "width": 157,
+      "height": 17,
+      "volume": 56566.64138123587,
+      "size_category": "large",
+      "volume_ratio": 0.1535793175027174
+    },
+    {
+      "id": 62,
+      "material": "F1",
+      "length": 87,
+      "width": 86,
+      "height": 122,
+      "volume": 283811.48216127645,
+      "size_category": "medium",
+      "volume_ratio": 0.3109226977108738
+    },
+    {
+      "id": 63,
+      "material": "F3",
+      "length": 158,
+      "width": 178,
+      "height": 23,
+      "volume": 81458.75251464377,
+      "size_category": "large",
+      "volume_ratio": 0.1259310514841784
+    },
+    {
+      "id": 64,
+      "material": "F1",
+      "length": 121,
+      "width": 124,
+      "height": 115,
+      "volume": 854780.6152278974,
+      "size_category": "large",
+      "volume_ratio": 0.4953928895644625
+    },
+    {
+      "id": 65,
+      "material": "F3",
+      "length": 172,
+      "width": 177,
+      "height": 21,
+      "volume": 179829.97885716963,
+      "size_category": "large",
+      "volume_ratio": 0.28128144549112755
+    },
+    {
+      "id": 66,
+      "material": "F2",
+      "length": 67,
+      "width": 24,
+      "height": 147,
+      "volume": 140601.87918357868,
+      "size_category": "small",
+      "volume_ratio": 0.594822990420257
+    },
+    {
+      "id": 67,
+      "material": "F3",
+      "length": 85,
+      "width": 92,
+      "height": 67,
+      "volume": 308410.9486709208,
+      "size_category": "medium",
+      "volume_ratio": 0.5886379140186296
+    },
+    {
+      "id": 68,
+      "material": "F2",
+      "length": 27,
+      "width": 65,
+      "height": 95,
+      "volume": 99459.21661499958,
+      "size_category": "small",
+      "volume_ratio": 0.5965465084120533
+    },
+    {
+      "id": 69,
+      "material": "F2",
+      "length": 100,
+      "width": 113,
+      "height": 77,
+      "volume": 116290.14801455708,
+      "size_category": "medium",
+      "volume_ratio": 0.13365147455988632
+    },
+    {
+      "id": 70,
+      "material": "F2",
+      "length": 77,
+      "width": 95,
+      "height": 113,
+      "volume": 256101.9362687038,
+      "size_category": "medium",
+      "volume_ratio": 0.3098275894104172
+    },
+    {
+      "id": 71,
+      "material": "F2",
+      "length": 53,
+      "width": 65,
+      "height": 25,
+      "volume": 34470.11980021552,
+      "size_category": "small",
+      "volume_ratio": 0.4002336116135329
+    },
+    {
+      "id": 72,
+      "material": "F2",
+      "length": 20,
+      "width": 36,
+      "height": 23,
+      "volume": 6489.9393291546,
+      "size_category": "small",
+      "volume_ratio": 0.3919045488619928
+    },
+    {
+      "id": 73,
+      "material": "F1",
+      "length": 34,
+      "width": 33,
+      "height": 24,
+      "volume": 4340.244072053463,
+      "size_category": "small",
+      "volume_ratio": 0.16117959269360752
+    },
+    {
+      "id": 74,
+      "material": "F3",
+      "length": 174,
+      "width": 131,
+      "height": 42,
+      "volume": 252385.89074888974,
+      "size_category": "large",
+      "volume_ratio": 0.26363024809044333
+    },
+    {
+      "id": 75,
+      "material": "F3",
+      "length": 105,
+      "width": 70,
+      "height": 36,
+      "volume": 35613.138799226064,
+      "size_category": "medium",
+      "volume_ratio": 0.13459236129715066
+    },
+    {
+      "id": 76,
+      "material": "F1",
+      "length": 145,
+      "width": 177,
+      "height": 115,
+      "volume": 1182614.0199147502,
+      "size_category": "large",
+      "volume_ratio": 0.4006857655628966
+    },
+    {
+      "id": 77,
+      "material": "F2",
+      "length": 164,
+      "width": 170,
+      "height": 137,
+      "volume": 742776.5067774783,
+      "size_category": "large",
+      "volume_ratio": 0.19446651100584314
+    },
+    {
+      "id": 78,
+      "material": "F1",
+      "length": 82,
+      "width": 72,
+      "height": 81,
+      "volume": 187145.1346063413,
+      "size_category": "medium",
+      "volume_ratio": 0.3913336315332173
+    },
+    {
+      "id": 79,
+      "material": "F1",
+      "length": 40,
+      "width": 55,
+      "height": 105,
+      "volume": 88471.89025343877,
+      "size_category": "small",
+      "volume_ratio": 0.38299519590233233
+    },
+    {
+      "id": 80,
+      "material": "F3",
+      "length": 67,
+      "width": 66,
+      "height": 118,
+      "volume": 311908.1318773726,
+      "size_category": "small",
+      "volume_ratio": 0.5977587637263846
+    },
+    {
+      "id": 81,
+      "material": "F3",
+      "length": 153,
+      "width": 179,
+      "height": 17,
+      "volume": 121555.92418555393,
+      "size_category": "large",
+      "volume_ratio": 0.2610854960931527
+    },
+    {
+      "id": 82,
+      "material": "F2",
+      "length": 72,
+      "width": 108,
+      "height": 18,
+      "volume": 46795.8379641142,
+      "size_category": "medium",
+      "volume_ratio": 0.33433240429322564
+    },
+    {
+      "id": 83,
+      "material": "F2",
+      "length": 102,
+      "width": 98,
+      "height": 16,
+      "volume": 90013.81693700523,
+      "size_category": "medium",
+      "volume_ratio": 0.5628114804484621
+    },
+    {
+      "id": 84,
+      "material": "F1",
+      "length": 61,
+      "width": 42,
+      "height": 81,
+      "volume": 41157.15180662461,
+      "size_category": "small",
+      "volume_ratio": 0.19832669214167467
+    },
+    {
+      "id": 85,
+      "material": "F2",
+      "length": 50,
+      "width": 53,
+      "height": 28,
+      "volume": 40534.50104454264,
+      "size_category": "small",
+      "volume_ratio": 0.5462870760720032
+    },
+    {
+      "id": 86,
+      "material": "F3",
+      "length": 100,
+      "width": 77,
+      "height": 127,
+      "volume": 159260.41815375673,
+      "size_category": "medium",
+      "volume_ratio": 0.16285961565983917
+    },
+    {
+      "id": 87,
+      "material": "F1",
+      "length": 120,
+      "width": 107,
+      "height": 92,
+      "volume": 664503.137006185,
+      "size_category": "medium",
+      "volume_ratio": 0.5625280517795823
+    },
+    {
+      "id": 88,
+      "material": "F2",
+      "length": 84,
+      "width": 95,
+      "height": 114,
+      "volume": 479658.1470871159,
+      "size_category": "medium",
+      "volume_ratio": 0.5272590984996657
+    },
+    {
+      "id": 89,
+      "material": "F1",
+      "length": 60,
+      "width": 24,
+      "height": 138,
+      "volume": 74015.93628659367,
+      "size_category": "small",
+      "volume_ratio": 0.3724634474969488
+    },
+    {
+      "id": 90,
+      "material": "F2",
+      "length": 141,
+      "width": 132,
+      "height": 92,
+      "volume": 348905.88507199223,
+      "size_category": "large",
+      "volume_ratio": 0.20376398412430982
+    },
+    {
+      "id": 91,
+      "material": "F3",
+      "length": 38,
+      "width": 53,
+      "height": 121,
+      "volume": 57298.299647638465,
+      "size_category": "small",
+      "volume_ratio": 0.2351239654962308
+    },
+    {
+      "id": 92,
+      "material": "F1",
+      "length": 42,
+      "width": 39,
+      "height": 92,
+      "volume": 67733.10462779386,
+      "size_category": "small",
+      "volume_ratio": 0.44946849702575953
+    },
+    {
+      "id": 93,
+      "material": "F1",
+      "length": 92,
+      "width": 76,
+      "height": 62,
+      "volume": 73957.54443742284,
+      "size_category": "medium",
+      "volume_ratio": 0.17060406463936398
+    },
+    {
+      "id": 94,
+      "material": "F3",
+      "length": 33,
+      "width": 25,
+      "height": 49,
+      "volume": 20794.30748486463,
+      "size_category": "small",
+      "volume_ratio": 0.5143922692607206
+    },
+    {
+      "id": 95,
+      "material": "F1",
+      "length": 99,
+      "width": 116,
+      "height": 22,
+      "volume": 72779.51481889456,
+      "size_category": "medium",
+      "volume_ratio": 0.28806685514587316
+    },
+    {
+      "id": 96,
+      "material": "F2",
+      "length": 35,
+      "width": 29,
+      "height": 24,
+      "volume": 4812.726919385034,
+      "size_category": "small",
+      "volume_ratio": 0.19756678651005885
+    },
+    {
+      "id": 97,
+      "material": "F1",
+      "length": 66,
+      "width": 68,
+      "height": 123,
+      "volume": 99840.07707630444,
+      "size_category": "small",
+      "volume_ratio": 0.18086184129006064
+    },
+    {
+      "id": 98,
+      "material": "F1",
+      "length": 29,
+      "width": 67,
+      "height": 116,
+      "volume": 109930.25873225155,
+      "size_category": "small",
+      "volume_ratio": 0.4877378508716149
+    },
+    {
+      "id": 99,
+      "material": "F3",
+      "length": 163,
+      "width": 125,
+      "height": 114,
+      "volume": 450151.65164231154,
+      "size_category": "large",
+      "volume_ratio": 0.19380116312229537
+    },
+    {
+      "id": 100,
+      "material": "F3",
+      "length": 100,
+      "width": 105,
+      "height": 34,
+      "volume": 51816.45928671217,
+      "size_category": "medium",
+      "volume_ratio": 0.14514414366025816
+    }
+  ],
+  "machines": [
+    {
+      "id": 1,
+      "profile": 5,
+      "length": 300,
+      "width": 300,
+      "height": 350,
+      "tau": {
+        "F1": 0.8743054486292006,
+        "F2": 0.42642124777897616,
+        "F3": 0.5952727824398028
+      },
+      "alpha": {
+        "F1": 0.06403346029687473,
+        "F2": 0.06144708025596393,
+        "F3": 0.06453915961488597
+      },
+      "beta": {
+        "F1": 9.824361420559213e-06,
+        "F2": 8.315062333454468e-06,
+        "F3": 1.0117470859480702e-05
+      },
+      "initial": {
+        "F1": 3.3199410294231977,
+        "F2": 3.168709528874746,
+        "F3": 1.5472623591636232
+      },
+      "setup": {
+        "F1": {
+          "F1": 0.6192945380099749,
+          "F2": 1.9080890928177063,
+          "F3": 3.545089753743994
+        },
+        "F2": {
+          "F1": 3.023232887472137,
+          "F2": 0.387720749822942,
+          "F3": 2.127185119276596
+        },
+        "F3": {
+          "F1": 0.7111205425936721,
+          "F2": 2.756335090579757,
+          "F3": 0.46058922962726523
+        }
+      }
+    },
+    {
+      "id": 2,
+      "profile": 1,
+      "length": 200,
+      "width": 200,
+      "height": 200,
+      "tau": {
+        "F1": 0.97368150949469,
+        "F2": 0.9768090600537627,
+        "F3": 0.44189162412802635
+      },
+      "alpha": {
+        "F1": 0.02062485049177573,
+        "F2": 0.03104766595555425,
+        "F3": 0.031184996637460355
+      },
+      "beta": {
+        "F1": 1.356626788109222e-05,
+        "F2": 1.3237415942156203e-05,
+        "F3": 1.0711847432372931e-05
+      },
+      "initial": {
+        "F1": 1.1141163832989804,
+        "F2": 2.086388591129565,
+        "F3": 1.623384350825998
+      },
+      "setup": {
+        "F1": {
+          "F1": 0.8813906842676138,
+          "F2": 3.39890571022375,
+          "F3": 0.7652857378044143
+        },
+        "F2": {
+          "F1": 3.7171346119604878,
+          "F2": 1.0315146003631992,
+          "F3": 3.4655858483598934
+        },
+        "F3": {
+          "F1": 1.773687703745607,
+          "F2": 3.274475918885987,
+          "F3": 0.563600261097902
+        }
+      }
+    },
+    {
+      "id": 3,
+      "profile": 3,
+      "length": 250,
+      "width": 250,
+      "height": 300,
+      "tau": {
+        "F1": 0.5389959310230572,
+        "F2": 0.6192688393716886,
+        "F3": 0.4062888648266521
+      },
+      "alpha": {
+        "F1": 0.05432597846223123,
+        "F2": 0.06774603709687647,
+        "F3": 0.06426887438254797
+      },
+      "beta": {
+        "F1": 1.3046712859710179e-05,
+        "F2": 5.041750889546745e-06,
+        "F3": 1.2279856538760636e-05
+      },
+      "initial": {
+        "F1": 1.0046017872956905,
+        "F2": 2.6833923193318334,
+        "F3": 1.2221282510929061
+      },
+      "setup": {
+        "F1": {
+          "F1": 0.44399980854855836,
+          "F2": 0.9423173097635885,
+          "F3": 3.680978882147348
+        },
+        "F2": {
+          "F1": 2.7066939694104404,
+          "F2": 0.7958649986181088,
+          "F3": 1.3836591354385233
+        },
+        "F3": {
+          "F1": 3.9559388591045868,
+          "F2": 1.446137542990779,
+          "F3": 0.746331639824247
+        }
+      }
+    },
+    {
+      "id": 4,
+      "profile": 2,
+      "length": 250,
+      "width": 200,
+      "height": 250,
+      "tau": {
+        "F1": 0.9506814590933923,
+        "F2": 0.6271986807196392,
+        "F3": 0.8290912433646296
+      },
+      "alpha": {
+        "F1": 0.06917731368677871,
+        "F2": 0.06066812870069671,
+        "F3": 0.05942285519255976
+      },
+      "beta": {
+        "F1": 1.130636735812515e-05,
+        "F2": 1.3731171924774848e-05,
+        "F3": 8.168344049950351e-06
+      },
+      "initial": {
+        "F1": 2.242201422188022,
+        "F2": 1.000252694126056,
+        "F3": 2.62566079276446
+      },
+      "setup": {
+        "F1": {
+          "F1": 1.0157189810355938,
+          "F2": 2.0796959882482455,
+          "F3": 1.1352091785770233
+        },
+        "F2": {
+          "F1": 1.736332393863146,
+          "F2": 0.847463363351749,
+          "F3": 3.100927318497642
+        },
+        "F3": {
+          "F1": 1.3036099096424953,
+          "F2": 1.3130204675982968,
+          "F3": 0.35705586038175036
+        }
+      }
+    },
+    {
+      "id": 5,
+      "profile": 3,
+      "length": 250,
+      "width": 250,
+      "height": 300,
+      "tau": {
+        "F1": 0.3620475767888306,
+        "F2": 0.9640795916283602,
+        "F3": 0.6184384730932658
+      },
+      "alpha": {
+        "F1": 0.03337999739485176,
+        "F2": 0.06736514574279662,
+        "F3": 0.043906992696204294
+      },
+      "beta": {
+        "F1": 1.0981266995773239e-05,
+        "F2": 1.0941221077317625e-05,
+        "F3": 6.991405755640587e-06
+      },
+      "initial": {
+        "F1": 2.034244196116999,
+        "F2": 1.6749977283166473,
+        "F3": 2.0491976379713233
+      },
+      "setup": {
+        "F1": {
+          "F1": 0.6533815078056221,
+          "F2": 1.1698157129341376,
+          "F3": 1.39871059612901
+        },
+        "F2": {
+          "F1": 1.89164736011689,
+          "F2": 0.7043500739270898,
+          "F3": 1.8515054792153869
+        },
+        "F3": {
+          "F1": 2.339475608503067,
+          "F2": 2.1783742671598185,
+          "F3": 0.5117760962018604
+        }
+      }
+    },
+    {
+      "id": 6,
+      "profile": 5,
+      "length": 300,
+      "width": 300,
+      "height": 350,
+      "tau": {
+        "F1": 0.979222898761885,
+        "F2": 0.5120716001618111,
+        "F3": 0.5819766308060597
+      },
+      "alpha": {
+        "F1": 0.06651125850611905,
+        "F2": 0.03370352661611234,
+        "F3": 0.027323056674163022
+      },
+      "beta": {
+        "F1": 9.633463111112837e-06,
+        "F2": 7.727818309145055e-06,
+        "F3": 7.101233254751679e-06
+      },
+      "initial": {
+        "F1": 1.536619930281969,
+        "F2": 2.746901433081539,
+        "F3": 3.1646179430010966
+      },
+      "setup": {
+        "F1": {
+          "F1": 0.8586248207263093,
+          "F2": 2.1172095016582224,
+          "F3": 2.2417155137129203
+        },
+        "F2": {
+          "F1": 2.0356206252494777,
+          "F2": 0.7970981477843122,
+          "F3": 1.5690711819856327
+        },
+        "F3": {
+          "F1": 0.7807913463414966,
+          "F2": 2.787529833748587,
+          "F3": 0.6116544652028562
+        }
+      }
+    },
+    {
+      "id": 7,
+      "profile": 4,
+      "length": 300,
+      "width": 250,
+      "height": 300,
+      "tau": {
+        "F1": 0.6352267673899546,
+        "F2": 0.518230733936949,
+        "F3": 0.819026723825842
+      },
+      "alpha": {
+        "F1": 0.02507880704591835,
+        "F2": 0.05658610245512887,
+        "F3": 0.029612305876130316
+      },
+      "beta": {
+        "F1": 5.759032629937971e-06,
+        "F2": 1.0427281808218803e-05,
+        "F3": 8.287325410755747e-06
+      },
+      "initial": {
+        "F1": 2.6542351339253076,
+        "F2": 2.4606935032981694,
+        "F3": 1.9305558220969148
+      },
+      "setup": {
+        "F1": {
+          "F1": 0.8224773892893998,
+          "F2": 2.6739864766675727,
+          "F3": 3.603337617805597
+        },
+        "F2": {
+          "F1": 3.881029898225686,
+          "F2": 0.5519083854736987,
+          "F3": 1.298238395286986
+        },
+        "F3": {
+          "F1": 3.498891005287908,
+          "F2": 2.458452194527061,
+          "F3": 0.8262086170465274
+        }
+      }
+    }
+  ],
+  "instance_group": "Large"
+}
